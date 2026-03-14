@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>s5-skill5</name>
+=======
 	<name>Hibernate-CRUD-Inventory</name>
+>>>>>>> e2f041c091be40eb37d3f40dfebf430066bcbe95
 	<comment></comment>
 	<projects>
 	</projects>
